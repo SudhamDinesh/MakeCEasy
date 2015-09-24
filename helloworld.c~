@@ -2,6 +2,5 @@
 
 int main() {
 printf("I am in Dinesh\n");
-printf("I am sussfully added GIT into my repository");
 return 0;
 }
